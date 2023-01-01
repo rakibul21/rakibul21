@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md.Rakibul Hasan</h1>
 <h3 align="center">A passionate laravel developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul21&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul21" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul21&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibul21" alt="rakibul21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibul21" alt="rakibul21" /></a> </p> -->
 
 - 🔭 I’m currently working on **Online Traning Management System**
 
