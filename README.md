@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibul21" alt="rakibul21" /></a> </p> -->
 
-- 🔭 I’m currently working on **Online Traning Management System**
+<!-- - 🔭 I’m currently working on **Online Traning Management System** -->
 
 - 🌱 I’m currently learning **Vuu.js**
 
 - 💬 Ask me about **HTML , CSS , Laravel**
 
-- 📫 How to reach me **rakibulhasanit10@gmail**
+- 📫 How to reach me **rakibulhasanit10@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul21&show_icons=true&locale=en&layout=compact" alt="rakibul21" /></p>
 
